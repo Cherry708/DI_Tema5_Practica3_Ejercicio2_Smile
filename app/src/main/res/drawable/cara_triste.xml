@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="200dp"
+        android:height="200dp"
+        android:viewportWidth="100"
+        android:viewportHeight="100">
+    <path
+        android:pathData="M 50,50 m -48,0 a 48,48 0 1,0 96,0 a 48,48 0 1,0 -96,0"
+        android:fillColor="#FEE800"/>
+    <path
+        android:pathData="M 35,40 m -7,0 a 7,7 0 1,0 14,0 a 7,7 0 1,0 -14,0"
+        android:fillColor="@color/black"/>
+    <path
+        android:pathData="M 65,40 m -7,0 a 7,7 0 1,0 14,0 a 7,7 0 1,0 -14,0"
+        android:fillColor="@color/black"
+    />
+    <path android:name="boca"
+        android:pathData="@string/triste"
+        android:strokeColor="@color/black"
+        android:strokeWidth="2"
+    />
+</vector>

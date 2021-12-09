@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DI_Tema5_Practica3_Ejercicio2_Smile</string>
+    <string name="feliz">M 30,65 Q 50,85 70,65</string>
+    <string name="triste">M 30,75 Q 50,55 70,75</string>
 </resources>
